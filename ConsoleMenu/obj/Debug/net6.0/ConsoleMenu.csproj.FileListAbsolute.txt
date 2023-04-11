@@ -1,0 +1,15 @@
+C:\Users\ethan\Documents\programming\ConsoleMenu\bin\Debug\net6.0\ConsoleMenu.deps.json
+C:\Users\ethan\Documents\programming\ConsoleMenu\bin\Debug\net6.0\ConsoleMenu.dll
+C:\Users\ethan\Documents\programming\ConsoleMenu\bin\Debug\net6.0\ConsoleMenu.pdb
+C:\Users\ethan\Documents\programming\ConsoleMenu\obj\Debug\net6.0\ConsoleMenu.csproj.AssemblyReference.cache
+C:\Users\ethan\Documents\programming\ConsoleMenu\obj\Debug\net6.0\ConsoleMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\Documents\programming\ConsoleMenu\obj\Debug\net6.0\ConsoleMenu.AssemblyInfoInputs.cache
+C:\Users\ethan\Documents\programming\ConsoleMenu\obj\Debug\net6.0\ConsoleMenu.AssemblyInfo.cs
+C:\Users\ethan\Documents\programming\ConsoleMenu\obj\Debug\net6.0\ConsoleMenu.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Documents\programming\ConsoleMenu\obj\Debug\net6.0\ConsoleMenu.dll
+C:\Users\ethan\Documents\programming\ConsoleMenu\obj\Debug\net6.0\refint\ConsoleMenu.dll
+C:\Users\ethan\Documents\programming\ConsoleMenu\obj\Debug\net6.0\ConsoleMenu.pdb
+C:\Users\ethan\Documents\programming\ConsoleMenu\obj\Debug\net6.0\ref\ConsoleMenu.dll
+C:\Users\ethan\Documents\programming\ConsoleMenu\bin\Debug\net6.0\ConsoleMenu.exe
+C:\Users\ethan\Documents\programming\ConsoleMenu\bin\Debug\net6.0\ConsoleMenu.runtimeconfig.json
+C:\Users\ethan\Documents\programming\ConsoleMenu\obj\Debug\net6.0\ConsoleMenu.genruntimeconfig.cache
